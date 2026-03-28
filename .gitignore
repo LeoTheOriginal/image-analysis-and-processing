@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+
+# IDE
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Output files
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+videos/
