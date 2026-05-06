@@ -5,3 +5,5 @@ Pillow
 deepface
 tf-keras
 notebook
+nbconvert
+pypandoc_binary
